@@ -1,0 +1,29 @@
+# Node
+dist/*
+node_modules/*
+npm-debug.log
+.vscode/*
+typings/*
+debug.log
+npm-debug.log
+package-lock.json
+
+# TypeScript
+*.js
+*.map
+*.d.ts
+
+# JetBrains
+.idea
+.project
+.settings
+.idea/*
+*.iml
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+**/.DS_Store
