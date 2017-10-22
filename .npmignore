@@ -5,6 +5,8 @@ npm-debug.log
 debug.log
 npm-debug.log
 package-lock.json
+notes.md
+gulpfile.js
 
 # DO NOT IGNORE TYPESCRIPT FILES FOR NPM
 # TypeScript
