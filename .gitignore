@@ -7,6 +7,8 @@ typings/*
 debug.log
 npm-debug.log
 package-lock.json
+release-notes.md
+gulpfile.js
 
 # TypeScript
 *.js
