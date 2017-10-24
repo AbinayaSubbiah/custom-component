@@ -7,6 +7,7 @@ npm-debug.log
 package-lock.json
 release-notes.md
 gulpfile.js
+gitauth.json
 
 # DO NOT IGNORE TYPESCRIPT FILES FOR NPM
 # TypeScript

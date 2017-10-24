@@ -9,6 +9,7 @@ npm-debug.log
 package-lock.json
 release-notes.md
 gulpfile.js
+gitauth.json
 
 # TypeScript
 *.js
